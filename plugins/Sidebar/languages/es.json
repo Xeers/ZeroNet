@@ -8,7 +8,7 @@
 	"Received": "Recibidos",
 	"Received bytes": "Bytes recibidos",
 	"Sent": "Enviados",
-	"Sent bytes": "Bytes envidados",
+	"Sent bytes": "Bytes enviados",
 
 	"Files": "Ficheros",
 	"Total": "Total",
@@ -37,10 +37,12 @@
 	"Identity address": "Dirección de la identidad",
 	"Change": "Cambiar",
 
+    "Site control": "Control del sitio",
 	"Update": "Actualizar",
 	"Pause": "Pausar",
 	"Resume": "Reanudar",
 	"Delete": "Borrar",
+    "Are you sure?": "¿Estás seguro？",
 
 	"Site address": "Dirección del sitio",
 	"Donate": "Donar",
@@ -74,6 +76,6 @@
 	"File write error: ": "Error de escritura de fichero：",
 	"Site settings saved!": "¡Configuración del sitio guardada!",
 	"Enter your private key:": "Introduce tu clave privada：",
-	" Signed!": " ¡firmado!",
+	" Signed!": " ¡Firmado!",
 	"WebGL not supported": "WebGL no está soportado"
 }
