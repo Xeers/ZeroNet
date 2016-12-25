@@ -1,0 +1,5 @@
+{
+	"Add <b>%s</b> new site?": "Añadir nuevo sitio: <b>%s</b>?",
+    "Added <b>%s</b> new site": "Nuevo sitio añadido:<b>%s</b>",
+    "Site deleted: <b>%s</b>": "El sitio ha sido borrado: <b>%s</b>"
+}
